@@ -1,2 +1,2 @@
 # Octokit-Demo
-Pull and Push contents to a Repository using Octokit.js
+Displaying the contents present in the Repository using Octokit.js
